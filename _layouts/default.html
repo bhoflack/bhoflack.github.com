@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>{{ page.title }} &larr; Brecht &amp; Mieke .blog</title>
+
+    {% if page.author %}
+    <meta name="author" content="{{ page.author }}" />
+    {% else %}
+    <meta name="author" content="Brecht Hoflack" />
+    {% endif %}
+
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+    {% endif %}
+
+    {% if page.feed %}
+    <link rel="alternate" type="application/atom+xml" href="{{ page.feed }}" title="RSS feed" />
+    {% endif %}
+
+    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="all" />
+  </head>
+  <body>
+    <div id="site">
+      {{ content }}
+    <div id="footer">
+      <address>
+        <span class="engine">
+          Powered by
+          <a href="http://github.com/mojombo/jekyll/" title="A static, minimalist CMS">Jekyll</a>
+        </span>
+      </address>
+    </div>
+    </div>
+
+    <!-- Google Analytics script goes here -->
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-26481047-1");
+      pageTracker._trackPageview();
+    </script>
+  </body>
+</html>

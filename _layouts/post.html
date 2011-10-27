@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div id="header">
+  Brecht &amp; Mieke  .blog
+</div>
+
+<div id="page">
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+
+  <address class="signature">
+    <span class="author">{{ page.author }}</span>
+    <span class="date">{{ page.date | date_to_long_string }}</span>
+    <span class="location">{{ page.location }}</span>
+  </address>
+</div>
