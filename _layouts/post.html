@@ -17,3 +17,19 @@ layout: default
     <span class="location">{{ page.location }}</span>
   </address>
 </div>
+
+
+<!-- Discus Comments -->
+<div id="disqus_thread"></div>
+
+<!-- Enable Disqus comments -->
+<script type="text/javascript">
+	var disqus_iframe_css = "http://hoflack.com/css/screen.css";
+	var disqus_title = "{{ page.title }}";
+	var disqus_message = "{{ page.summary }}";
+</script>
+<script type="text/javascript" src="http://disqus.com/forums/brechtblog/embed.js"></script>
+
+<noscript>
+		<a href="http://markreid.disqus.com/?url=ref">View the discussion thread.</a>
+</noscript>
