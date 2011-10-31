@@ -17,7 +17,7 @@ Deze tempel hangt vol van swastika's ( wat blijkbaar een Hindi teken is ) en lig
 # Qutub Minar #
 Deze moslim tempel was een van onze grootste verrassingen.  Rond een toren van 72m hoog liggen verschillende indrukwekkende tempels en moskeeën.  Er is ook een ijzeren staaf die al je wensen doet uitkomen als je ze aanraakt.  Die hebben we niet aangeraakt omdat we dit toen niet wisten. Op deze plek liep iedereen er ontspannen bij.
 
-![Qutub Minar]("/images/P1020865.JPG.png")
+![Qutub Minar](/images/P1020865.JPG.png)
 
 Het was ook hier dat het ons voor het eerst opviel dat we constant gefotografeerd werden.  Sommigen vroegen ons ook om samen met hen te poseren.
 
@@ -33,12 +33,12 @@ Enorme tempel, met disney achtige nationalistische attracties.  We moesten bagag
 # Humayun's tomb #
 Indrukwekkende crypte die als inspiratie diende voor de Taj Mahal.  We hebben genoten van de rust,  en de schoonheid van het gebouw.  Binnen is zo'n gebouw veel minder indrukwekkend,  je hebt simpele muren die niet veel versierd zijn met een graftombe in het midden.
 
-![Humayun's tomb]("/images/P1020906.JPG.png")
+![Humayun's tomb](/images/P1020906.JPG.png)
 
 # India gate #
 Deze indrukwekkende poort is een symbool voor India die gebouwd is voor de overledenen van de eerste wereldoorlog.  Er is ook een vlam voor de eeuwige soldaat.  Rond de poort heb je een festival sfeer met opringerige verkopers en mensen die genieten van de zonsondergang.  We leren stilaan omgaan met de aandacht,  en ook de verkopers weten we goed af te wimpelen.
 
-![India gate]("/images/P1020930.JPG.png")
+![India gate](/images/P1020930.JPG.png)
 
 # Tourist trap pt. 2 #
 Onze taxi chauffeur vroeg ons of we nog een shopping mall wilden bezoeken.  Aangezien ik nog een hemd nodig heb zei ik ja,  waarna we alweer naar een prularia winkel werden gebracht dat de meest kitcherige dingen aan ons probeerde te verkopen.  Ook deze keer niets gekocht,  chauffeur not amused.
