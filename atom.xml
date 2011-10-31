@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Inductio Ex Machina</title>
+ <title>Brecht &amp; Mieke Blog</title>
  <link href="http://hoflack.com/atom.xml" rel="self"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://hoflack.com/</id>
@@ -16,7 +16,7 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://mark.reid.name{{ post.url }}"/>
+   <link href="http://hoflack.com/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>id:{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
