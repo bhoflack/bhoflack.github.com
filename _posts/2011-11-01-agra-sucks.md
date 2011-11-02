@@ -16,6 +16,8 @@ Eenmaal op de kamer bleek dat er een dikke salamander over de muren liep en die 
 Dus de uitbater van ons verblijf heeft ons een andere kamer aangeboden. De muren en ramen leken van karton, we konden geen oog dichtdoen omwille van al het omgevingslawaai (indiërs die constant zitten te toeteren!)
 We waren volgens mij ook de enige bezoekers en sliepen in kamer 61. Alles was er een beetje verloederd. Very spooky.
 
+![Mieke en de hagedis](/images/2011-11-01/P1030075.JPG.png)
+
 Gelukkig konden we deze morgen al om 4u30 opstaan om naar Jaipur te vertrekken. De sfeer is hier beter, ons verblijf is een pareltje.
 We kunnen weer lachen ;-)
 
