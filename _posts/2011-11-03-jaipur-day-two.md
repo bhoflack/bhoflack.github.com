@@ -2,7 +2,7 @@
 title: Jaipur,  dag twee
 location: Jaipur, India
 layout: post
-author: Brecht Hoflack
+author: Mieke Carpentier
 summary: Jantar Mantar, Amber fort &amp; RA. One
 ---
 Vandaag hebben we voor het eerst kunnen uitslapen tot 9 uur.
