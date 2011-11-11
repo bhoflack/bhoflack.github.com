@@ -32,3 +32,4 @@ In willekeurige volgorde:
 - vrienden
 - ongeveer alle heilige dieren om op te eten
 - stu bru
+- om als een gelijke behandeld te worden
