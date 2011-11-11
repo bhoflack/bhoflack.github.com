@@ -31,3 +31,4 @@ In willekeurige volgorde:
 - niet moeten onderhandelen als je iets koopt
 - vrienden
 - ongeveer alle heilige dieren om op te eten
+- stu bru
