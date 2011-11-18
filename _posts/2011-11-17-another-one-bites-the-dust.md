@@ -1,5 +1,5 @@
 ---
-title: Anotherone bites the dust
+title: Another one bites the dust
 location: Jaisalmer, India
 layout: post
 summary: En dan was het mijn beurt om ziek te worden
