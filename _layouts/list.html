@@ -2,12 +2,17 @@
 layout: default
 ---
 
-<div id="header">
-  {% include header.html %}
-</div>
-
 <div id="page">
   <h1>{{ page.title }}</h1>
 
   {{ content }}
 </div>
+
+<script src="/js/masonry.min.js"></script>
+<script language="javascript>
+  window.onload = function() {
+    var wall = new Masonry(document.getElementById('container'), {
+      columnWidth: 240
+    });
+  };
+</script>
