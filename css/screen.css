@@ -51,7 +51,7 @@ table {
 
 body{
 	font-family: Georgia, serif;
-	font-size:17px;
+	font-size:18px;
 	line-height:27px;
 	margin:0px auto;
 	background-image: url('/images/cream_dust.png');
@@ -60,7 +60,7 @@ body{
 .item {
     width: 320px;
     margin: 7px;
-    padding: 0.8em;
+    padding: 0.8em 0.8em 0;
     float: left;
     border: 1px solid #bbb;
     background-color: #fff;
@@ -85,26 +85,17 @@ body{
     margin-right: 0 !important;
 }
 
-header.site-header {
-    padding-bottom: 15px;
-}
-
 #page-nav {
     position: absolute;
     left: 200px;
 }
 
-
-h1.site-header-logo-container{
-	font-weight:normal;
-	letter-spacing:1px;
-	font-size:40px;
-	margin-bottom:10px;
-}
-
 header {
-    margin-top: 2em;
-    margin-bottom: 3em;
+    margin-top: 1.3em;
+    margin-bottom: 1em;
+    font-size: 24px;
+    letter-spacing: 1px;
+    padding-bottom: 1em;
 }
 
 h1 {
@@ -112,7 +103,7 @@ h1 {
 	font-weight:normal;
 	letter-spacing:1px;
 	text-transform:none;
-	font-size:22px;
+	font-size:28px;
 	color:#000;
 	padding-bottom:15px;
 	margin-bottom:20px;
