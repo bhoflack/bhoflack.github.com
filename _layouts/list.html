@@ -3,16 +3,17 @@ layout: default
 ---
 
 <div id="page">
-  <h1>{{ page.title }}</h1>
-
   {{ content }}
 </div>
 
-<script src="/js/masonry.min.js"></script>
-<script language="javascript>
-  window.onload = function() {
-    var wall = new Masonry(document.getElementById('container'), {
-      columnWidth: 240
+<script src="/js/jquery-1.8.2.js"></script>
+<script src="/js/jquery.masonry.min.js"></script>
+<script language="javascript">
+  var container = $('#container');
+  container.imagesLoaded(function() {
+    $container.masonry({
+      itemSelector: '.item',
+      columnWidth: 350
     });
-  };
+  });
 </script>

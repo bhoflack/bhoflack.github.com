@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -58,13 +58,22 @@ body{
 }
 
 .item {
-    width: 313px;
-    margin: 10px;
-    padding: 17px 17px 82px;
+    width: 320px;
+    margin: 7px;
+    padding: 0.8em;
     float: left;
     border: 1px solid #bbb;
-    min-height: 333px;
     background-color: #fff;
+}
+
+.item img {
+  border: 1px solid #bebebe;
+  margin: 7px 7px;
+}
+
+
+.item .postauthor {
+  font-style: italic;
 }
 
 .horizontal-list > li {
@@ -111,11 +120,11 @@ h1 {
 
 #site {
     margin-left: 5em;
-    margin-right: 2em;
+    margin-right: 4em;
 }
 
 p {
-    margin-bottom: 10px;
+  margin-bottom: 1em;
 }
 
 
