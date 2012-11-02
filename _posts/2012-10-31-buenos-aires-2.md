@@ -3,6 +3,7 @@ title: Buenos Aires dag 2
 location: Buenos Aires, Argentinie
 layout: post
 author: Brecht Hoflack
+front_image: /images/2012-10-31/front.JPG
 ---
 Na 12 uur slapen voelden we ons vandaag een stuk frisser.  We besloten om wat meer te ondernemen en namen de bus naar Recoleta.  Dit is een luxe wijk in Buenos Aires die bovendien bekend is vanwege het kerkhof.  Het ganse kerkhof is een doolhof van praalgraven,  waarvan die van Evita het meest bekend is.
 

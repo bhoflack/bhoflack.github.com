@@ -3,6 +3,7 @@ title: Buenos Aires
 location: Buenos Aires, Argentinie
 layout: post
 author: Brecht Hoflack
+front_image: /images/2012-10-30/front.jpg
 ---
 Buenos Aires is een gigantische stad met meer dan 14 miljoen inwoners.  We kwamen rond 9h30 plaatselijke tijd aan,  en na een uurtje wachten hadden we onze baggage en kwamen we door de douane.  Daarna gingen we op zoek naar de shuttle,  die ons naar het centrum van de stad bracht.  Moe van het vele reizen namen we dan de metro to bij ons hotel.
 

@@ -58,22 +58,31 @@ body{
 }
 
 .item {
-    width: 320px;
-    margin: 7px;
-    padding: 0.8em 0.8em 0;
+    width: 370px;
+    margin: 0.4em;
+    padding: 0;
     float: left;
-    border: 1px solid #bbb;
+    border: 1px dotted #bbb;
     background-color: #fff;
 }
 
+.item > .story-text {
+  padding: 0.4em
+}
+
 .item img {
-  border: 1px solid #bebebe;
-  margin: 7px 7px;
+  margin: 0px;
 }
 
 
 .item .postauthor {
   font-style: italic;
+}
+
+.shadow {
+  -moz-box-shadow:    3px 3px 5px 6px #eee;
+  -webkit-box-shadow: 3px 3px 5px 6px #eee;
+  box-shadow:         3px 3px 5px 6px #eee;
 }
 
 .horizontal-list > li {
@@ -118,4 +127,7 @@ p {
   margin-bottom: 1em;
 }
 
+.excerpt {
+  font-size: 14px;
+}
 
