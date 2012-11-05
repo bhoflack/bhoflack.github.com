@@ -103,8 +103,10 @@ header {
     margin-top: 1.3em;
     margin-bottom: 1em;
     font-size: 24px;
-    letter-spacing: 1px;
+    /*letter-spacing: 1px;*/
     padding-bottom: 1em;
+    font-weight: 600;
+    color: #ddd;
 }
 
 h1 {
@@ -116,6 +118,12 @@ h1 {
 	color:#000;
 	padding-bottom:15px;
 	margin-bottom:20px;
+}
+
+h3 {
+  font-size: 24px;
+  padding-bottom: 10px;
+  font-weight: 580;
 }
 
 #site {
@@ -131,3 +139,30 @@ p {
   font-size: 14px;
 }
 
+a,
+a:visited,
+a:active {
+  color: #191919;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+#page-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: solid #d6d6d6;
+  border-width: 0 0 1px;
+
+  -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.1);
+  box-shadow: 0 1px 4px rgba(0,0,0,.1);
+  border-top: 3px solid #666;
+  border-bottom: 1px solid #ddd;
+
+  font-family: "source-sans-pro", "Helvetica Neue", sans-serif;
+}
