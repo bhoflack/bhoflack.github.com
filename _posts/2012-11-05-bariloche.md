@@ -16,11 +16,11 @@ Bariloche is een stadje dat in het 7 meren gebied ligt.  Het is omringd door mer
 
 ![Aan het meer](/images/2012-11-05/P1040872.JPG)
 
-We slapen hier in Cabañas del Arroyo, een mooi hotel  vlakbij het meer.  We hebben hier ons eigen appartementje,  met zithoek, keukentje, badkamer en bed.  We kunnen hier dan ook ons eigen eten klaar maken ( geen hamburgers meer voor ons :-).
+We slapen hier in Cabañas del Arroyo, een mooi hotel  vlakbij het meer met een eigen watervalletje.  We hebben hier ons eigen appartementje,  met zithoek, keukentje, badkamer en bed.  We kunnen hier dan ook ons eigen eten klaar maken ( geen hamburgers meer voor ons :-).
 
 ![Bij de rodelbaan](/images/2012-11-05/P1040879.JPG)
 
-Deze morgen gingen startten we de dag met een wandeling naar het centrum via het meer.  We bezochten de stoeltjeslift en rodelbaan en genoten van het uitzicht.  Daarna gigen we onze rafting tocht regelen,  en controleerden we of mijn Visa kaart terug werkt.  We gingen lekker ( en veel te veel ) eten in de lokale Italiaan,  en besloten daarna om een wandeling te gaan doen.
+Deze morgen gingen startten we de dag met een wandeling naar het centrum via het meer.  We bezochten de stoeltjeslift en rodelbaan en genoten van het uitzicht.  Daarna gingen we onze rafting tocht regelen,  en controleerden we of mijn Visa kaart terug werkt.  We gingen lekker ( en veel te veel ) eten in de lokale Italiaan,  en besloten daarna om een wandeling te gaan doen.
 
 ![Speciale boom](/images/2012-11-05/P1040893.JPG)
 
