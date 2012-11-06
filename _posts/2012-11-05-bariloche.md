@@ -10,7 +10,7 @@ front_image: /images/2012-11-05/front.jpg
 
 ![In de bus](/images/2012-11-05/P1040850.JPG)
 
-![De eindeloze Ruta 40](/images/2012-11-05/P104863.JPG)
+![De eindeloze Ruta 40](/images/2012-11-05/P1040863.JPG)
 
 Bariloche is een stadje dat in het 7 meren gebied ligt.  Het is omringd door meren en bergen van het Andes gebergte.  Het is vrij toeristisch,  en je kan er allerlei activiteiten doen.  Het is hier ook een stuk frisser dan in Puerto Madryn.
 
