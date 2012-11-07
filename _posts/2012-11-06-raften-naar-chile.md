@@ -3,6 +3,7 @@ title: Raften naar Chile
 summary: We gingen vandaag gaan raften tot in Chile
 layout: post
 author: Brecht Hoflack
+location: Bariloche, Argentinie
 front_image: /images/2012-11-06/front.JPG
 ---
 Vandaag gingen we raften met Aguas Blancas Rafting.  Kwart voor negen werden we opgepikt,  en daarna reden we zo'n 2 uur met onze groep en gidsen naar de Rio Manso.
