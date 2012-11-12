@@ -1,5 +1,5 @@
 ---
-title: El calafate
+title: El Calafate
 summary: We bezochten de Perito Moreno gletsjer bij Calafate
 layout: post
 author: Mieke Carpentier
