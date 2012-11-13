@@ -176,3 +176,11 @@ header > a {
   font-size: 1.4em;
   font-weight: 650;
 }
+
+.writtenby {
+  font-size: 0.8em;
+}
+
+.title {
+  font-size: 32px;
+}
