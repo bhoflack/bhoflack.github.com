@@ -67,7 +67,7 @@ body{
 }
 
 .item > .story-text {
-  padding: 0.4em
+  padding: 0.6em
 }
 
 .item img {
@@ -100,12 +100,9 @@ body{
 }
 
 header {
-    margin-bottom: 1em;
     font-size: 18px;
-    /*letter-spacing: 1px;*/
-    padding-bottom: 3em;
+    padding-bottom: 4em;
     font-weight: 580;
-    color: #ddd;
     z-index: 999;
 }
 
@@ -162,14 +159,14 @@ header > a {
   width: 100%;
   border: solid #d6d6d6;
   border-width: 0 0 1px;
-  background-color: #eee;
+  background-color: #eaeaea;
 
   -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.1);
   box-shadow: 0 1px 4px rgba(0,0,0,.1);
   border-top: 3px solid #666;
   border-bottom: 1px solid #ddd;
   padding-top: 0.8em;
-  padding-bottom: 0.8em;
+  padding-bottom: 0.4em;
 }
 
 #page-nav emphasis {
@@ -178,9 +175,10 @@ header > a {
 }
 
 .writtenby {
-  font-size: 0.8em;
+  font-size: 0.85em;
 }
 
 .title {
-  font-size: 32px;
+  padding-top: 1em;
+  font-size: 42px;
 }
