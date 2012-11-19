@@ -3,6 +3,8 @@ layout: default
 ---
 
 <div id="page">
+  <div id="tweets"><span id="latest-tweet">loading ...</span></div>  
+
   {{ content }}
 </div>
 
@@ -16,3 +18,17 @@ layout: default
   })
   });
 </script>
+<script src="/js/twitter.min.js"></script>
+<script language="javascript">
+  jQuery(document).ready(function($) {
+    getTwitters('latest-tweet', { 
+      id: 'bhoflack', 
+      count: 1, 
+      enableLinks: true, 
+      ignoreReplies: true, 
+      clearContents: true,
+      template: '@%user_screen_name%: %text% <a href="http://twitter.com/%user_screen_name%/statuses/%id_str%/">%time%</a>'
+    });
+  });
+</script>
+

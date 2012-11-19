@@ -182,3 +182,7 @@ header > a {
   padding-top: 1em;
   font-size: 42px;
 }
+
+#tweets {
+  padding: 1em;
+}
