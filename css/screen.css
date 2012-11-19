@@ -184,5 +184,8 @@ header > a {
 }
 
 #tweets {
-  padding: 1em;
+  margin: 1em;
+  padding: 0.2em;
+  border: 1px dashed #d9e742;
+  background-color: #f9fbe5;
 }
