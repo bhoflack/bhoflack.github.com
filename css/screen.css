@@ -123,7 +123,7 @@ h3 {
   font-weight: 580;
 }
 
-#site {
+#post {
     margin-left: 5em;
     margin-right: 4em;
 }
@@ -188,4 +188,9 @@ header > a {
   padding: 0.2em;
   border: 1px dashed #d9e742;
   background-color: #f9fbe5;
+}
+
+#list {
+  margin-left: 1em;
+  margin-right: 1em;
 }
