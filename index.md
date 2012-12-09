@@ -13,8 +13,8 @@ feed: atom.xml
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p>{{ post.date | date_to_long_string }}</p>
       <p class="excerpt">{{ post.summary }}</p>
-      <p class="postauthor">{{ post.author }}</p>
       <p class="readmore"><a href="{{ post.url }}">lees meer</a></p>
+      <p class="postauthor">{{ post.author }}</p>
     </div>
   </div>
 {% endfor %}
