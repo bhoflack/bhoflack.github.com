@@ -14,6 +14,7 @@ feed: atom.xml
       <p>{{ post.date | date_to_long_string }}</p>
       <p class="excerpt">{{ post.summary }}</p>
       <p class="postauthor">{{ post.author }}</p>
+      <p class="readmore"><a href="{{ post.url }}">lees meer</a></p>
     </div>
   </div>
 {% endfor %}
