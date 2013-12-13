@@ -2,13 +2,17 @@
 layout: default
 ---
 
-<div id="post">
-  <h1 class="title">{{ page.title }}</h1>
+<div class="row">
+  <div class="small-12 columns">
+    <p class="written-by">Geschreven door {{ page.author }} op {{ page.date | date_to_long_string }} in {{ page.location }}.</p>
+  </div>
+</div>
 
-  <p class="writtenby">Geschreven door {{ page.author }} op {{ page.date | date_to_long_string }} in {{ page.location }}.</p>
-
-  {{ content }}
-
+<div class="row">
+  <div class="small-12 columns post">    
+      {{ content }}
+  </div>
+</div>
   <!-- AddToAny BEGIN -->
   <div class="a2a_kit a2a_default_style">
     <a class="a2a_dd" href="http://www.addtoany.com/share_save">Share</a>

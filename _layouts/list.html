@@ -2,33 +2,4 @@
 layout: default
 ---
 
-<div id="list">
-  <div id="tweets"><span id="latest-tweet">loading ...</span></div>  
-
-  {{ content }}
-</div>
-
-<script src="/js/jquery-1.8.2.js"></script>
-<script src="/js/jquery.masonry.min.js"></script>
-<script language="javascript">
-  $('#container').imagesLoaded(function() {
-    $('#container').masonry(
-      {
-        itemSelector: '.item'
-  })
-  });
-</script>
-<script src="/js/twitter.min.js"></script>
-<script language="javascript">
-  jQuery(document).ready(function($) {
-    getTwitters('latest-tweet', { 
-      id: 'bhoflack', 
-      count: 1, 
-      enableLinks: true, 
-      ignoreReplies: true, 
-      clearContents: true,
-      template: '<a href="http://twitter.com/%user_screen_name%/">@%user_screen_name%</a>: %text% <a href="http://twitter.com/%user_screen_name%/statuses/%id_str%/">%time%</a>'
-    });
-  });
-</script>
-
+{{ content }}
