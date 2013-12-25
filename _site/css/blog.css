@@ -20,6 +20,7 @@ p.author {
 
 header {  background-color: #e0e0e0;
           height: 400px;
+          margin-bottom: 15px;
 }
 
 h1.title { color: #fff; }
