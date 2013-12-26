@@ -4,6 +4,7 @@ summary: We bezochten een stuk van het land ten noorden van Auckland
 location: Auckland,  Nieuw Zeeland
 author: Brecht Hoflack
 layout: post
+front_image: /images/2013-12-12/IMGP2986.JPG
 ---
 
 Vandaag was een meer logistieke dag waarin we eerst de auto gingen gaan afhalen.  Voor de rest van de vakantie hebben we een auto gehuurd zodat we vlot alles kunnen bereiken.  Eens het papier werk achter de rug was sprongen we in de auto,  en leerde ik al doende links te rijden.  Na een uurtje sukkelen en ruitenwissers aanzetten ipv richtingaanwijzers begon het te lukken en waren we vertrokken.  
@@ -19,3 +20,5 @@ In het terugkeren passeerden we bij Goat Island.  Dat eilandje nabij de oostkust
 Goat island is tevens een marine natuur reservaat,  waar je kan duiken en een boot hebt met een glazen onderste zodat je de fauna en flora kan bewonderen.  Jammer genoeg was de laatste boot al uitgevaren,  en moesten we het stellen met het prachtige uitzicht en wat mooie kiekjes.
 
 Nadien reden we terug en genoten we van onze laatste avond in Auckland.  We aten een veel te grote burger in Posonby,  en trokken de stad in.
+
+{% gallery images/2013-12-12 %}

@@ -8,7 +8,7 @@ feed: atom.xml
 {% for post in site.posts  %}
   <div class="row">
     <div class="large-2 columns">
-      <img src="http://placehold.it/100x66">
+      <a href="{{ post.url }}"><img src="{{ post.front_image | thumbnail }}"></a>
     </div>
     <div class="small-12 large-10 columns">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>

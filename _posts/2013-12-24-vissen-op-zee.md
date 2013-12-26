@@ -4,6 +4,7 @@ layout: post
 summary: Onze laatste morgen in Kaikoura brachten we door op zee.
 author: Brecht Hoflack
 location: Kaikoura, Nieuw Zeeland
+front_image: /images/2013-12-24-vissen/P1050975.JPG
 ---
 
 Kaikoura ( wat Maori is voor eat crayfish ) staat bekend voor zijn baai met vele crayfishes ( kreefachtigen ).  Aangezien het ons wel wat leuk om te vissen schreven we ons in en gingen we deze morgen vissen op zee.
